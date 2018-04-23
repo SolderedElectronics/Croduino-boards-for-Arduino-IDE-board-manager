@@ -16,9 +16,9 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/e-radionicacom/Croduino-boards-for-Arduino-IDE-board-manager/blob/master/Croduino-AVR-PB-1.0.0.zip",
+          "url": "https://github.com/e-radionicacom/Croduino-boards-for-Arduino-IDE-board-manager/blob/master/Croduino-AVR-PB-1.0.0.tar.bz2",
           "archiveFileName": "Croduino-AVR-PB-1.0.0.zip",
-          "checksum": "SHA-256:a8b7f4c605a30da84881bb708e9349a716f93b787639ef4dcd398461f01fd437",
+          "checksum": "SHA-256:eb3911f8628b9f1e9edbbeeaeb46fcf8ea25b57c9700ce99299456447708b156",
           "size": "1270658",
           "boards": [
             {
