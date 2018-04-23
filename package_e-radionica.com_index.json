@@ -15,9 +15,9 @@
           "name": "Croduino boards PB",
           "architecture": "avr",
           "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://e-radionicacom.github.io/Croduino-boards-for-Arduino-IDE-board-manager/Croduino-1.0.tar.bz2",
-          "archiveFileName": "Croduino-1.0.tar.bz2",
+          "category": "e-radionica.com",
+          "url": "https://e-radionicacom.github.io/Croduino-boards-for-Arduino-IDE-board-manager/croduino-1.0.0.tar.bz2",
+          "archiveFileName": "croduino-1.0.0.tar.bz2",
           "checksum": "SHA-256:eb3911f8628b9f1e9edbbeeaeb46fcf8ea25b57c9700ce99299456447708b156",
           "size": "62899",
           "boards": [
@@ -30,7 +30,8 @@
             {
 
             }
-          ]
+          ],
+          "name": "Croduino Basic2 PB"
         }
       ],
       "tools":
