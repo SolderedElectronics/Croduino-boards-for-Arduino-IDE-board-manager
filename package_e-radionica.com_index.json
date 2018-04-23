@@ -1,0 +1,41 @@
+{
+  "packages":
+  [
+    {
+      "name": "e-radionica.com",
+      "maintainer": "e-radionica.com: Arduino compatibles made in Europe",
+      "websiteURL": "https://www.e-radionica.com",
+      "help":
+      {
+        "online": "http://www.forum.e-radionica.com"
+      },
+      "platforms":
+      [
+        {
+          "name": "Croduino boards PB",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": " ****  ",
+          "archiveFileName": "Croduino-AVR-PB-1.0.0.zip",
+          "checksum": "SHA-256:fc156414ce751db63c4cca987d69b193f381fc3eec198c7acfdd7e033364a375",
+          "size": "1270658",
+          "boards": [
+            {
+              "name": "Croduino Basic2 PB"
+            }          
+          ],
+          "toolsDependencies":
+          [
+            {
+
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+} 
